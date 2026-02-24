@@ -90,7 +90,7 @@ function ExportModal({ groups, onClose }) {
         background: "#1e2a45",
         border: "1px solid rgba(255,255,255,0.15)",
         borderRadius: 20, padding: 28,
-        width: "100%", maxWidth: 100%, maxHeight: "80vh",
+        width: "100%", maxWidth: "100%", maxHeight: "80vh",
         display: "flex", flexDirection: "column", gap: 16,
         boxShadow: "0 24px 60px rgba(0,0,0,0.6)",
       }}>
